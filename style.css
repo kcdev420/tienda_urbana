@@ -19,7 +19,7 @@ nav a {
   text-decoration: none;
 }
 .hero {
-  background: url('https://images.unsplash.com/photo-1598775378121-e24f7062c151?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
+  background: url('imagen') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 100px 20px;
